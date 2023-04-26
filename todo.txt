@@ -1,0 +1,6 @@
+Sobrepor o gráfico de índices glicêmico/ pressão arterial/ IMC/ quantidade de insulina/ SkinThickness de pessoas com e sem diabetes
+Valores máximo e mínimo de pressão arterial, da quantidade de insulina, das idades e do IMC
+Desvio padrão: índice glicêmico e quantidade de insulina de pessoas com diabetes e sem diabetes
+Variância da idade e do IMC 
+Tabela de frequência?(Se não faz sentido, não coloca)
+Tabela com cruzamento de dados (Nº de diabéticos por idade por exemplo)(Deve!)
